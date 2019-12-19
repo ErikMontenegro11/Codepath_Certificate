@@ -3,12 +3,12 @@ Course work focused on the fundamentals of web application security with the aim
 ![](certificate.png)
 
 # Skills Covered:
- Data Exposure
- Cookie and Session Based Attacks
- Malicious Input Attacks
- Cryptography
- User Authentication
- Network Security 
- Social Engineering
+ - Data Exposure
+ - Cookie and Session Based Attacks
+ - Malicious Input Attacks
+ - Cryptography
+ - User Authentication
+ - Network Security 
+ - Social Engineering
  
 
